@@ -1,0 +1,6 @@
+Positive.fa (ESC-H1 DHS sites obtained from ENCODE)
+Negative.fa (Random regions matched for GC content and repeat element content as the positives)
+PositiveSequencesHits.txt (MOODS output scanning with 1271 CIS-BP TF motifs)
+NegativeSequencesHits.txt (MOODS output scanning with 1271 CIS-BP TF motifs)
+PositiveSequencesHitsMatrix.txt (Feature matrix containing motif hits)
+NegativeSequencesHitsMatrix.txt (Feature matrix containing motif hits)
