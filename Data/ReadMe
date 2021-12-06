@@ -1,6 +1,8 @@
 Positive.fa (ESC-H1 DHS sites obtained from ENCODE reduced to 100 bp)
 Negative.fa (Random regions matched for GC content and repeat element content as the positives)
-PositiveSequencesHits.txt (MOODS output scanning with 1271 CIS-BP TF motifs)
-NegativeSequencesHits.txt (MOODS output scanning with 1271 CIS-BP TF motifs)
-PositiveSequencesHitsMatrix.txt (Feature matrix containing motif hits)
-NegativeSequencesHitsMatrix.txt (Feature matrix containing motif hits)
+minmax.txt (minimum, maximum score for PWMs in CIS-BP, used for calculating relative score) 
+PositiveSequencesHits.txt (MOODS output scanning with 1271 CIS-BP TF motifs) - File too large to be uploaded to github
+NegativeSequencesHits.txt (MOODS output scanning with 1271 CIS-BP TF motifs) - File too large to be uploaded to github
+PositiveSequencesHitsMatrix.txt (Feature matrix containing motif hits) - File too large to be uploaded to github
+NegativeSequencesHitsMatrix.txt (Feature matrix containing motif hits) - File too large to be uploaded to github
+
